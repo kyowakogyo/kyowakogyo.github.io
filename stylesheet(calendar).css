@@ -1,8 +1,10 @@
 * {
   box-sizing:  border-box;
+  max-height: 1100px;
   height: 100%;
 }
 
 img {
+  max-width: 1000px;
   width: 100%;
 }
